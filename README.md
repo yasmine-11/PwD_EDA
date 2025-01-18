@@ -6,7 +6,6 @@ The entangled interplay between crimes and society has always intrigued me, lead
 The analysis aims to explore patterns, correlations, and potential socioeconomic implications, promoting a better comprehension of American criminal dynamics.
 <br/>
 Whithin this project, I would like to explore the following:
-<br/>
 - Temporal Trends:
   - How has homicides rate changed over the years ? (2007-2017)
   - Identify yearly/seasonal patterns.
@@ -24,14 +23,12 @@ Whithin this project, I would like to explore the following:
 - Case Disposition:
   - Explore disposition in different cities/states.
   - Is there any correlation between victim demographics and disposition?
-
 <br/>
 This project aims to:
-<br/>
 - Find suitable, credible and ethical data.
 - Collect different data types from different resources.
 - Clean and preprocess CSV and webscraped data properly.
 - Disect patterns and trends of the data showing that it is viable for further exploration.
 - Try to identify new and unique correlations in the data.
-
+<br/>
 [1] Robert Roth. (2013). *U.S Departement of Justice, Office of Justice Programs*. Link: https://www.ojp.gov/ncjrs/virtual-library/abstracts/why-united-states-most-homicidal-nation-affluent-world
