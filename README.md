@@ -24,11 +24,13 @@ Whithin this project, I would like to explore the following:
   - Explore disposition in different cities/states.
   - Is there any correlation between victim demographics and disposition?
 <br/>
+
 This project aims to:
-+ Find suitable, credible and ethical data.
-+ Collect different data types from different resources.
-+ Clean and preprocess CSV and webscraped data properly.
-+ Disect patterns and trends of the data showing that it is viable for further exploration.
-+ Try to identify new and unique correlations in the data.
+1. Find suitable, credible and ethical data.
+2.  Collect different data types from different resources.
+3.  Clean and preprocess CSV and webscraped data properly.
+4.  Disect patterns and trends of the data showing that it is viable for further exploration.
+5.  Try to identify new and unique correlations in the data.
+   
 <br/>
 [1] Robert Roth. (2013). *U.S Departement of Justice, Office of Justice Programs*. Link: https://www.ojp.gov/ncjrs/virtual-library/abstracts/why-united-states-most-homicidal-nation-affluent-world
