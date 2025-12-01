@@ -3,9 +3,9 @@
 "At a homicide rate of approximately 5 per 100,000 population the United States by far has the highest homicide rate among affluent nations. This is a rate that has been fairly stable since 2000." [1]
 <br/>
 The entangled interplay between crimes and society has always intrigued me, leading me to delve into criminal data and explore the different dynamics of criminal homicides in the US, a nation well known for having one of the highest rates of homicide in the world.
-The analysis aims to explore patterns, correlations, and potential socioeconomic implications, promoting a better comprehension of American criminal dynamics.
+This EDA (Exploratory Data Analysis) project aims to explore patterns, correlations, and potential socioeconomic implications, promoting a better comprehension of American criminal dynamics.
 <br/>
-Whithin this project, I would like to explore the following:
+Whithin this project, I explored the following:
 - Temporal Trends:
   - How has homicides rate changed over the years ? (2007-2017)
   - Identify yearly/seasonal patterns.
@@ -25,7 +25,7 @@ Whithin this project, I would like to explore the following:
   - Is there any correlation between victim demographics and disposition?
 <br/>
 
-This project aims to:
+This project's aims are as follows:
 1. Find suitable, credible and ethical data.
 2.  Collect different data types from different resources.
 3.  Clean and preprocess CSV and webscraped data properly.
